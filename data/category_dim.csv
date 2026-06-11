@@ -1,0 +1,6 @@
+﻿Category_ID,Category_Name,SaaS_Relevance_Weight
+CAT001,tech,0.92
+CAT002,fashion,0.55
+CAT003,fitness,0.48
+CAT004,travel,0.38
+CAT005,food,0.27

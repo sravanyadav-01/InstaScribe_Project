@@ -1,0 +1,15 @@
+streamlit
+streamlit-authenticator
+streamlit-option-menu
+pandas
+numpy
+matplotlib
+scikit-learn
+seaborn
+plotly
+wordcloud
+supabase
+python-dotenv
+scipy
+groq
+PyYAML

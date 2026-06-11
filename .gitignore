@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+myenv/
+.venv/
+venv/
+
+# Local auth/runtime data
+auth_store.db
+auth_store.yaml
+*.db-journal
+*.sqlite
+
+# Streamlit secrets and local config
+.streamlit/
+.streamlit/secrets.toml
+
+# Environment files and logs
+.env
+*.log
